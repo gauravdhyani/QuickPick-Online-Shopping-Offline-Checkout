@@ -1,4 +1,4 @@
-# 🚀 QuickPick  
+#  QuickPick  
 *A seamless in-store shopping experience powered by Wi-Fi RTT navigation, RFID-enabled checkout, and intelligent digital cart integration.*  
 
 ---
