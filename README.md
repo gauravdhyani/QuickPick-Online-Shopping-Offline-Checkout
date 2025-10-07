@@ -9,6 +9,48 @@ Using **Wi-Fi RTT precision navigation**, **RFID-secured checkout**, and a **dig
 
 ---
 
+<figure>
+  <img width="1919" height="946" alt="Screenshot 2025-10-07 182126" src="https://github.com/user-attachments/assets/b6a3cbc7-56e1-48ef-aafd-d4f231d24f4b" /><br>
+  <figcaption><b> Welcome to QuickPick </b></figcaption>
+</figure>
+
+<figure>
+  <img width="1919" height="946" alt="Screenshot 2025-10-07 182136" src="https://github.com/user-attachments/assets/a7fd47be-8a67-4ba2-9030-1a672887dc7c" /><br>
+  <figcaption><b> Login as Retailer or Customer </b></figcaption>
+</figure>
+
+<figure>
+  <img width="1919" height="948" alt="Screenshot 2025-10-07 182015" src="https://github.com/user-attachments/assets/4aa6db20-3b9c-4556-82ce-cf8d0eab5517" /><br>
+  <figcaption><b> Retailer Floor Map </b></figcaption>
+</figure>
+
+<figure>
+  <img width="1919" height="950" alt="Screenshot 2025-10-07 182029" src="https://github.com/user-attachments/assets/6a35d4db-3100-46f2-ac4d-7a942f2441fe" /><br>\
+  <figcaption><b> Automatic Shelf Detection </b></figcaption>
+</figure>
+
+<figure>
+  <img width="1919" height="948" alt="Screenshot 2025-10-07 182236" src="https://github.com/user-attachments/assets/b0142e71-5924-4be2-b704-7fba663c2e0b" /><br>
+  <figcaption><b> Retailer Inventory Management </b></figcaption>
+</figure>
+
+<figure>
+  <img width="1919" height="952" alt="Screenshot 2025-10-07 182248" src="https://github.com/user-attachments/assets/9735fa42-70cd-4209-9353-8f1beb3e9ad3" /><br>
+  <figcaption><b> Retailer Inventory Management </b></figcaption>
+</figure>
+
+<figure>
+  ![Picsart_25-10-07_18-32-15-384](https://github.com/user-attachments/assets/cea95fca-be5a-4c49-bf65-a06c6d8593c2)<br>
+  <figcaption><b> Customer Mobile View </b></figcaption>
+</figure>
+
+<figure>
+  ![Picsart_25-10-07_18-33-10-509](https://github.com/user-attachments/assets/d1080234-44b5-49f9-b939-4eebb8569595)<br>
+  <figcaption><b> Seemless Checkout Process </b></figcaption>
+</figure>
+
+---
+
 ##  Customer Journey  
 1. **Plan Ahead** → Shoppers curate their cart in advance.  
 2. **Navigate Smarter** → Wi-Fi RTT provides **sub-meter accuracy**; a **dynamic map** guides shoppers via a **custom BFS pathfinding algorithm** on a JSON-based store layout.  
